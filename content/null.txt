@@ -1,0 +1,9 @@
+cd Desktop\wzj_sign_public
+
+go run main.go
+
+http://localhost:8080/home/
+
+rothion_nethral@163.com
+
+http://localhost:8080/home/qr.html?sign=3501727
